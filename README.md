@@ -1,16 +1,19 @@
-# totyfruity
+TotyFruity
 
-A new Flutter project.
+ Project Overview
+TotyFruity is a system designed for managing and showcasing **fresh juices**.  
+It allows users to explore different juice options, and manage orders in a clean and simple interface.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+ Features
+-  Display a variety of fresh juices with images.
+-  Add juices to cart / place orders.
+-  Smooth and user-friendly interface.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AliaaMamdouh6/TotyFruity.git
