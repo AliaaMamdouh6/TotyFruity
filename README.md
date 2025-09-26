@@ -10,7 +10,14 @@ It allows users to explore different juice options, and manage orders in a clean
 -  Display a variety of fresh juices with images.
 -  Add juices to cart / place orders.
 -  Smooth and user-friendly interface.
-
+---
+screenshots
+homepage
+![Home Page](screenshots/home.jpeg)
+welcomepage
+![Welcome Page](screenshots/welcome.jpeg)
+cart
+![Cart Page](screenshots/cart.jpeg)
 ---
 
  Setup Instructions
