@@ -13,9 +13,10 @@ It allows users to explore different juice options, and manage orders in a clean
 ---
 screenshots
 <p align="center">
-  <img src="screenshots/home.jpeg" alt="Home" width="200" hight="100"/>
-  <img src="screenshots/cart.jpeg" alt="Cart" width="200" hight="100"/>
-  <img src="screenshots/welcome.jpeg" alt="Welcome" width="200" hight="100"/>
+  <img src="screenshots/welcome.jpeg" alt="Welcome" width="200" hight="100" style="margin-right:20px;"/>
+  <img src="screenshots/home.jpeg" alt="Home" width="200" hight="100" style="margin-right:20px;"/>
+  <img src="screenshots/cart.jpeg" alt="Cart" width="200" hight="100" style="margin-right:20px;"/>
+
 </p>
 ---
 
